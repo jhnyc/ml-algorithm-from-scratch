@@ -1,2 +1,2 @@
-# ml-algorithm-from-scratch
-Various machine learning algorithms built from scratch.
+# ML Algorithms From Scratch
+Various popular machine learning algorithms (e.g. linear regression, logistic regression, KNN, etc.) built from scratch.
